@@ -26,38 +26,28 @@
 },
 "Project1": {
     "Title": "Smart Farming System| C, MQTT, Ubuntu, Arduino ",
-    "Desc": "• Created an IoT system used in farms and gardens controlled by an Arduino connected with several sensors.<br><br>• Implemented an open-source website for users to monitor the status of the plants: temperature and humidity.<br><br>• Implemented an open-source mobile app for users to monitor as well as controlling the system such as water
-pump,light and fan.",
+   "Desc": "• Created an IoT system used in farms and gardens controlled by an Arduino connected with several sensors.<br><br>• Implemented an open-source website for users to monitor the status of the plants: temperature and humidity.<br><br>• Implemented an open-source mobile app for users to monitor as well as controlling the system such as water pump, light and fan.",
     "GitHubRepo": "https://github.com",
     "MainImage": "Smart Farming System.png",
     "DetailImages": ["SmartFarmingSystemdetail1.png","Smart Farming Systemdetail2.png","Smart Farming Systemdetail3.png","Smart Farming Systemdetail4.png"]
   },
   "Project2": {
     "Title": "Sokucom| HTML, CSS, JavaScript, PHP, WordPress ",
-    "Desc": "• Created a website for the project using essential website tools.
-             • Called API to give client id and password to use the system.
-             • A landing page which helps the client to understand what the software is about.",
+    "Desc": "• Created a website for the project using essential website tools.<br>• Called API to give client id and password to use the system.<br>• A landing page which helps the client to understand what the software is about.",
     "GitHubRepo": "https://github.com",
     "MainImage": "Sokucom.png",
     "DetailImages": ["Sokucomdetail1.png","Sokucomdetail2.png","Sokucomdetail3.png"]
   },
   "Project3": {
     "Title": "Smart Home Automation System| HTML, CSS, and JavaScript,SQL ",
-    "Desc": "• Designed a smart home automation system to control household appliances remotely using a mobile app.
-             • Integrated IoT sensors (motion, temperature, and light) with a Raspberry Pi to collect real-time data and automate tasks like lighting control and temperature regulation.
-             • Built a Flask-based backend to manage user authentication.
-             • Implemented a responsive frontend for seamless user interaction.
-             • Enhanced system security by incorporating encryption for data transmission.",
+   "Desc": "• Designed a smart home automation system to control household appliances remotely using a mobile app.<br>• Integrated IoT sensors (motion, temperature, and light) with a Raspberry Pi to collect real-time data and automate tasks like lighting control and temperature regulation.<br>• Built a Flask-based backend to manage user authentication.<br>• Implemented a responsive frontend for seamless user interaction.<br>• Enhanced system security by incorporating encryption for data transmission.",
     "GitHubRepo": "",
     "MainImage": "Smart Home Automation System.png",
     "DetailImages": ["Smart Homedetail1.png","Smart Homedetail2.png","Smart Homedetail3.png"]
   },
   "Project4": {
     "Title": "AcademiaOS| UX/UI,SQL ",
-    "Desc": "• Create an application offline for students and workers.
-             • People can use this application to schedule their event.
-             • This app also has a mood tracker and a summary function for their day.
-             • Announce an important day.",
+   "Desc": "• Create an application offline for students and workers.<br>• People can use this application to schedule their event.<br>• This app also has a mood tracker and a summary function for their day.<br>• Announce an important day.",
     "GitHubRepo": "",
     "MainImage":  "AcademiaOS.png",
     "DetailImages": ["AcademiaOSdetail1.png","AcademiaOSdetail2.png","AcademiaOSdetail3.png"]
