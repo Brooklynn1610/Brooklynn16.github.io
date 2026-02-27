@@ -38,8 +38,8 @@ pump,light and fan.",
              • Called API to give client id and password to use the system.
              • A landing page which helps the client to understand what the software is about.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "MainImage": "Sokucom.png",
+    "DetailImages": ["Sokucomdetail1.png","Sokucomdetail2.png","Sokucomdetail3.png"]
   },
   "Project3": {
     "Title": "Smart Home Automation System| HTML, CSS, and JavaScript,SQL ",
@@ -49,8 +49,8 @@ pump,light and fan.",
              • Implemented a responsive frontend for seamless user interaction.
              • Enhanced system security by incorporating encryption for data transmission.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+    "MainImage": "Smart Home Automation System.png",
+    "DetailImages": ["Smart Homedetail1.png","Smart Homedetail2.png","Smart Homedetail3.png"]
   },
   "Project4": {
     "Title": "AcademiaOS| UX/UI,SQL ",
@@ -59,7 +59,7 @@ pump,light and fan.",
              • This app also has a mood tracker and a summary function for their day.
              • Announce an important day.",
     "GitHubRepo": "",
-    "MainImage":  "P3Main.png",
+    "MainImage":  "AcademiaOS.png",
     "DetailImages": []
   }
 }
