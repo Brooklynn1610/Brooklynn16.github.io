@@ -29,7 +29,7 @@
     "Desc": "• Created an IoT system used in farms and gardens controlled by an Arduino connected with several sensors.<br><br>• Implemented an open-source website for users to monitor the status of the plants: temperature and humidity.<br><br>• Implemented an open-source mobile app for users to monitor as well as controlling the system such as water
 pump,light and fan.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
+    "MainImage": "Smart Farming System.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
