@@ -60,6 +60,6 @@ pump,light and fan.",
              • Announce an important day.",
     "GitHubRepo": "",
     "MainImage":  "AcademiaOS.png",
-    "DetailImages": []
+    "DetailImages": ["AcademiaOSdetail1.png","AcademiaOSdetail2.png","AcademiaOSdetail3.png"]
   }
 }
