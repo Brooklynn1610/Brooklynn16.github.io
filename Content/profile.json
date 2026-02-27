@@ -20,38 +20,46 @@
   "Graduation": "June 2027",
   "EducationText": "Use this to add some narrative to your education section",
   "AI-IOT Hackathon ": "• Led a team to build an IT project.<br><br>• Made a detailed plan, assigned tasks to team members, and inspired others to complete the project.<br><br>• Enhanced my leadership and communication skills.",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "SkillsText": "Technologies: Microsoft SQL Server, XCode,UX/UI",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "Smart Farming System| C, MQTT, Ubuntu, Arduino ",
+    "Desc": "• Created an IoT system used in farms and gardens controlled by an Arduino connected with several sensors.<br><br>• Implemented an open-source website for users to monitor the status of the plants: temperature and humidity.<br><br>• Implemented an open-source mobile app for users to monitor as well as controlling the system such as water
+pump,light and fan.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": "Sokucom| HTML, CSS, JavaScript, PHP, WordPress ",
+    "Desc": "• Created a website for the project using essential website tools.
+             • Called API to give client id and password to use the system.
+             • A landing page which helps the client to understand what the software is about.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "Smart Home Automation System| HTML, CSS, and JavaScript,SQL ",
+    "Desc": "• Designed a smart home automation system to control household appliances remotely using a mobile app.
+             • Integrated IoT sensors (motion, temperature, and light) with a Raspberry Pi to collect real-time data and automate tasks like lighting control and temperature regulation.
+             • Built a Flask-based backend to manage user authentication.
+             • Implemented a responsive frontend for seamless user interaction.
+             • Enhanced system security by incorporating encryption for data transmission.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
   "Project4": {
-    "Title": "",
-    "Desc": "",
+    "Title": "AcademiaOS| UX/UI,SQL ",
+    "Desc": "• Create an application offline for students and workers.
+             • People can use this application to schedule their event.
+             • This app also has a mood tracker and a summary function for their day.
+             • Announce an important day.",
     "GitHubRepo": "",
-    "MainImage": "",
+    "MainImage":  "P3Main.png",
     "DetailImages": []
   }
 }
