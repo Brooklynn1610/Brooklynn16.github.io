@@ -30,7 +30,7 @@
 pump,light and fan.",
     "GitHubRepo": "https://github.com",
     "MainImage": "Smart Farming System.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["SmartFarmingSystemdetail1.png","Smart Farming Systemdetail2.png","Smart Farming Systemdetail3.png","Smart Farming Systemdetail4.png"]
   },
   "Project2": {
     "Title": "Sokucom| HTML, CSS, JavaScript, PHP, WordPress ",
